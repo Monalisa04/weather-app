@@ -1,4 +1,4 @@
-const apiKey = "ab1c9d68fa0b4317895c3dcc2cad90b7";
+const apiKey = "<API_KEY>";
 
 export const getWeather = (latitude, longitude) => {
   const apiUrl = "http://api.weatherbit.io/v2.0/forecast/daily?";
